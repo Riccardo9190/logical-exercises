@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target" : "ESNext",
+    "watch": true
+  },
+
+  "include": ["#1 Very Easy/**/*", "#2 Easy/**/*"],
+}
